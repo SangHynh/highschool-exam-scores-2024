@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/SangHynh/highschool-exam-scores-2024-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/SangHynh/highschool-exam-scores-2024-client.git
